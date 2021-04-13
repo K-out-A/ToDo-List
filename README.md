@@ -1,8 +1,12 @@
 # ToDo-List
 
-概要：Djangoのチュートリアルとして作成したTo−Doアプリです。期限日が近くなるとぷるぷると振動して視覚的に認識しやすく工夫しました。
+【概要】
+Djangoのチュートリアルとして作成したTo−Doアプリです。期限日が近くなると__ぷるぷる__と振動して視覚的に認識しやすく工夫しました。
 
 # デモ
+
+https://github.com/K-out-A/My-Portfolio/blob/main/media/todo_list.gif
+
 
 # 使い方
 ### Githubからclone
